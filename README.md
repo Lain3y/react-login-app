@@ -43,7 +43,8 @@ If you wish to change the preset username and password, you can do so by modifyi
 
 | File    | Link |
 | -------- | ------- |
-| Video  | [View here](https://www.canva.com/design/DAF2PUpVuDY/O47iYAc_lK2LPWnaRE3MSg/watch?utm_content=DAF2PUpVuDY&utm_campaign=designshare&utm_medium=link&utm_source=editor)    |
+| Video  |[View here](https://www.canva.com/design/DAF2PUpVuDY/O47iYAc_lK2LPWnaRE3MSg/watch?utm_content=DAF2PUpVuDY&utm_campaign=designshare&utm_medium=link&utm_source=editor)    |
+| Screenshots | [View here](https://www.canva.com/design/DAF2P28W_oI/ScjEGhx1USWUOjl7PAuBOw/view?utm_content=DAF2P28W_oI&utm_campaign=designshare&utm_medium=link&utm_source=editor)     |
 
 ## Acknowledgments
 This project was developed as part of the Code First Girls coursework.

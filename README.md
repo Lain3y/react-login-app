@@ -1,70 +1,53 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Login Web App
 
-## Available Scripts
+This simple login-log out web app was created as part of my Code First Girls Degree. The app is built using React and is a great starting point for learning about React state management and basic authentication concepts.
 
-In the project directory, you can run:
+## Features
+- Login Page: Enter your username and password to log in.
+- Successful Login Page: A welcome message is displayed upon successful login, along with a button to log out.
+- Unsuccessful Login Page: In case of unsuccessful login attempts, an error message is shown, and users can return to the login page.
 
-### `npm start`
+## Getting Started
+### Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Node.js](https://nodejs.org/en/) installed
+- Code editor of your choice (e.g., [Visual Studio Code](https://code.visualstudio.com/) )
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+#### Clone the repository:
+git clone  https://github.com/Lain3y/login-app-hw3
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Navigate to the project directory:
+`cd login-app-hw3` 
 
-### `npm run build`
+#### Install dependencies:
+`npm install` 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+1.  Open your terminal or command prompt.
+2.  Navigate to the project directory using the following command:
+ `cd login-app-hw3`  (Replace "login-app-hw3" with the actual name of your project directory.)
+3.  Start the application by running:  `npm start`  This will automatically open the app in your default browser at `http://localhost:3000`.
+    
+4.  Enter the preset username (`Kamara`) and password (`coding23`) to log in.
+5.  If the login is successful, you will be directed to a welcome page. Click the "Click here to sign out" button to log out.
+6.  If the login is unsuccessful, an error page will appear. Click the "Return to login" button to try again.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Customize Credentials
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you wish to change the preset username and password, you can do so by modifying the `handleLogin` function in the `App.js` file.
 
-### `npm run eject`
+## View a demo of the project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| File    | Link |
+| -------- | ------- |
+| Screenshots  | [View here](https://www.canva.com/design/DAF2PUpVuDY/O47iYAc_lK2LPWnaRE3MSg/watch?utm_content=DAF2PUpVuDY&utm_campaign=designshare&utm_medium=link&utm_source=editor)    |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Acknowledgments
+This project was developed as part of the Code First Girls coursework.
+Thanks to [Code First Girls](https://codefirstgirls.com/) for providing valuable learning opportunities.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

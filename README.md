@@ -2,6 +2,8 @@
 # React Login Web App
 
 This simple login-log out web app was created as part of my Code First Girls Degree. The app is built using React and is a great starting point for learning about React state management and basic authentication concepts.
+![Screenshot 2023-12-06 230214](https://github.com/Lain3y/login-app-hw3/assets/132710326/d3f4b75d-bb80-45ac-92a5-95ddaf430021)
+
 
 ## Features
 - Login Page: Enter your username and password to log in.
